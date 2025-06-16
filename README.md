@@ -13,7 +13,7 @@ vvp sync_tb
 gtkwave sync_2ff.vcd
 ```
 ---
-<details>
+<details open>
   <summary>Output Screenshots: </summary>
   
   ### Dual-port Memory Module:
